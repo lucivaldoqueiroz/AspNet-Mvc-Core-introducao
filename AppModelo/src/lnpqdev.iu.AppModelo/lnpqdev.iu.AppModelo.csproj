@@ -7,6 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="appsettings - Cópia.Development.json" />
+    <Content Remove="appsettings - Cópia.json" />
+    <Content Remove="json.json" />
+    <Content Remove="libman - Cópia %282%29.json" />
+    <Content Remove="libman - Cópia.json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Models\" />
   </ItemGroup>
 

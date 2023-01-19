@@ -1,5 +1,7 @@
 C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\bin\Debug\net6.0\appsettings.json
+C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\bin\Debug\net6.0\libman.json
+C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\bin\Debug\net6.0\lnpqdev.iu.AppModelo.staticwebassets.runtime.json
 C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\bin\Debug\net6.0\lnpqdev.iu.AppModelo.exe
 C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\bin\Debug\net6.0\lnpqdev.iu.AppModelo.deps.json
 C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\bin\Debug\net6.0\lnpqdev.iu.AppModelo.runtimeconfig.json
@@ -11,6 +13,8 @@ C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\obj\
 C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\obj\Debug\net6.0\lnpqdev.iu.AppModelo.AssemblyInfo.cs
 C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\obj\Debug\net6.0\lnpqdev.iu.AppModelo.csproj.CoreCompileInputs.cache
 C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\obj\Debug\net6.0\lnpqdev.iu.AppModelo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\obj\Debug\net6.0\lnpqdev.iu.AppModelo.RazorAssemblyInfo.cache
+C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\obj\Debug\net6.0\lnpqdev.iu.AppModelo.RazorAssemblyInfo.cs
 C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\obj\Debug\net6.0\staticwebassets\msbuild.lnpqdev.iu.AppModelo.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\obj\Debug\net6.0\staticwebassets\msbuild.build.lnpqdev.iu.AppModelo.props
 C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lnpqdev.iu.AppModelo.props
@@ -24,5 +28,4 @@ C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\obj\
 C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\obj\Debug\net6.0\lnpqdev.iu.AppModelo.pdb
 C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\obj\Debug\net6.0\lnpqdev.iu.AppModelo.genruntimeconfig.cache
 C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\obj\Debug\net6.0\ref\lnpqdev.iu.AppModelo.dll
-C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\obj\Debug\net6.0\lnpqdev.iu.AppModelo.RazorAssemblyInfo.cache
-C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\obj\Debug\net6.0\lnpqdev.iu.AppModelo.RazorAssemblyInfo.cs
+C:\Users\lunpq\Documents\AspNet-Mvc-Core\AppModelo\src\lnpqdev.iu.AppModelo\bin\Debug\net6.0\bundleconfig.json
